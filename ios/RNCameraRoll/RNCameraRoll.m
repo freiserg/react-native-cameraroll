@@ -11,7 +11,6 @@
 #import <React/RCTLog.h>
 #import <React/RCTUtils.h>
 
-#import "RCTAssetsLibraryRequestHandler.h"
 
 @implementation RNCameraRoll
 
